@@ -24,6 +24,8 @@ This quarter, I plan to learn CSS, JavaScript, React, and some advanced Java cod
 Besides programming, I really enjoy playing the piano，swimming in my free time, and playing with dogs. Here is my [favorite breed](pug.jpg). I really enjoy listening to classical music as well as all sorts of songs. Since high school, I have been recording myself playing some piece and you can find it in my
 [Channel](https://space.bilibili.com/35830558?from=search&seid=13932100923906934675).
 
+![](a.png)
+
 So far, my favoriate pianests have been 
 
 - Maksim Mrvica
